@@ -4,6 +4,6 @@
 
 * Available on Twickd
 
-# Building
+## Building
 
 cd to directory, change device IP address in Makefile and run make package install

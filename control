@@ -1,0 +1,9 @@
+Package: com.mtac.scrollbarbegone
+Name: ScrollBarBeGone
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide scroll bars system wide
+Maintainer: MTAC
+Author: MTAC
+Section: Tweaks
